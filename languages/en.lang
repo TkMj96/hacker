@@ -86,22 +86,22 @@ handlerCheckData.cantCreateUser=Les utilisateurs avec l’ID '%1' ne peuvent pas
 
 # bot/handler/handlerEvents.js
 handlerEvents.userBanned=🚫 𝐕𝐨𝐮𝐬 𝐚𝐯𝐞𝐳 𝐞́𝐭𝐞́ 𝐛𝐚𝐧𝐧𝐢 𝐝𝐮 𝐛𝐨𝐭\n» 𝐑𝐚𝐢𝐬𝐨𝐧 : %1\n» 𝐇𝐞𝐮𝐫𝐞 : %2\n» 𝐈𝐃 𝐔𝐭𝐢𝐥𝐢𝐬𝐚𝐭𝐞𝐮𝐫 : %3
-handlerEvents.threadBanned=🚫 𝐂𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 𝐚 𝐞́𝐭𝐞́ 𝐛𝐚𝐧𝐧𝐢 𝐝𝐮 𝐛𝐨𝐭\n» 𝐑𝐚𝐢𝐬𝐨𝐧 : %1\n» 𝐇𝐞𝐮𝐫𝐞 : %2\n» 𝐈𝐃 𝐆𝐫𝐨𝐮𝐩𝐞 : %3
+handlerEvents.threadBanned=🚫 this group has been banned from using the bot\n» reason : %1\n» Hour : %2\n» 𝐈𝐃 Group : %3
 handlerEvents.onlyAdminBox=🔒 𝐂𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 𝐞𝐬𝐭 𝐚𝐜𝐭𝐮𝐞𝐥𝐥𝐞𝐦𝐞𝐧𝐭 𝐫𝐞𝐬𝐞𝐫𝐯𝐞́ 𝐚𝐮𝐱 𝐚𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐞𝐮𝐫𝐬
-handlerEvents.onlyAdminBot=❌ | 𝐒𝐞𝐮𝐥 𝐥’𝐚𝐝𝐦𝐢𝐧 𝐝𝐮 𝐛𝐨𝐭 𝐩𝐞𝐮𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭
-handlerEvents.onlyDeveloperGlobal=⚙️ | 𝐒𝐞𝐮𝐥 𝐥𝐞 𝐝𝐞́𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐮𝐫 𝐝𝐮 𝐛𝐨𝐭 𝐞𝐭 𝐩𝐥𝐮𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭
+handlerEvents.onlyAdminBot=❌ | only bot admin can use the bot
+handlerEvents.onlyDeveloperGlobal=⚙️ | only the developer 𝐝𝐮 𝐛𝐨𝐭 𝐞𝐭 𝐩𝐥𝐮𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭
 handlerEvents.onlyVipUserGlobal=💎 | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐮𝐬𝐞𝐫𝐬 𝐕𝐈𝐏 𝐞𝐭 𝐩𝐥𝐮𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭
-handlerEvents.commandNotFound=❌ | 𝐋𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 "%1" 𝐧’𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬, 𝐭𝐚𝐩𝐞𝐳 %2𝐡𝐞𝐥𝐩 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐭𝐨𝐮𝐭𝐞𝐬 𝐥𝐞𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬
-handlerEvents.commandNotFound2=❌ | 𝐋𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 𝐪𝐮𝐞 𝐯𝐨𝐮𝐬 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐳 𝐧’𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬, 𝐭𝐚𝐩𝐞𝐳 %1𝐡𝐞𝐥𝐩 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐥𝐞𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬
+handlerEvents.commandNotFound=❌ | u typed error "%1" 𝐧’𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬, 𝐭𝐚𝐩𝐞𝐳 %2𝐡𝐞𝐥𝐩 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐭𝐨𝐮𝐭𝐞𝐬 𝐥𝐞𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝
+handlerEvents.commandNotFound2=❌ | You typed my prefix command, 𝐭ype %1𝐡𝐞𝐥𝐩 to see all 𝐜𝐨𝐦𝐦𝐚𝐧𝐝
 
 # NEW KEY ADDED FOR SUGGESTION
-handlerEvents.commandNotFoundSuggestion=🧐 𝐋𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 𝐪𝐮𝐞 𝐯𝐨𝐮𝐬 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐳 𝐧’𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬.\n\n𝐕𝐨𝐮𝐥𝐢𝐞𝐳-𝐯𝐨𝐮𝐬 𝐝𝐢𝐫𝐞 %2%1 ?
+handlerEvents.commandNotFoundSuggestion=🧐 the command u typed is not available.\n\ndid u mean %2%1 ?
 # END NEW KEY
 
 handlerEvents.commandSyntaxError=⚠️ | 𝐋𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 𝐪𝐮𝐞 𝐯𝐨𝐮𝐬 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐳 𝐩𝐨𝐬𝐬𝐞̀𝐝𝐞 𝐮𝐧𝐞 𝐦𝐚𝐮𝐯𝐚𝐢𝐬𝐞 𝐬𝐲𝐧𝐭𝐚𝐱𝐞, 𝐭𝐚𝐩𝐞𝐳 %1𝐡𝐞𝐥𝐩 %2 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐜𝐨𝐦𝐦𝐞𝐧𝐭 𝐥’𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫
 handlerEvents.onlyAdmin=❌ | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐚𝐝𝐦𝐢𝐧𝐬 𝐝𝐮 𝐠𝐫𝐨𝐮𝐩𝐞 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 "%1"
-handlerEvents.onlyAdminToUseOnReply=❌ | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐚𝐝𝐦𝐢𝐧𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐫𝐞𝐩𝐨𝐧𝐬𝐞 𝐝𝐞 "%1"
-handlerEvents.onlyAdminToUseOnReaction=❌ | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐚𝐝𝐦𝐢𝐧𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧 𝐝𝐞 "%1"
+handlerEvents.onlyAdminToUseOnReply=❌ | only bot admin can use the bot  "%1"
+handlerEvents.onlyAdminToUseOnReaction=❌ | only bot admin can 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧 over there "%1"
 handlerEvents.onlyAdminBot2=💫 | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐮𝐬𝐞𝐫𝐬 𝐕𝐈𝐏 𝐞𝐭 𝐩𝐥𝐮𝐬 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 "%1"
 handlerEvents.onlyAdminBot2ToUseOnReply=💫 | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐮𝐬𝐞𝐫𝐬 𝐕𝐈𝐏 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐫𝐞𝐩𝐨𝐧𝐬𝐞 𝐝𝐞 "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=💫 | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐮𝐬𝐞𝐫𝐬 𝐕𝐈𝐏 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧 𝐝𝐞 "%1"
